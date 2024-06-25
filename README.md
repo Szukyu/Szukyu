@@ -9,5 +9,5 @@
 
 <h2 align="center"> Stats </h2>
 <div align="center">
-  ![Szukyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=szukyu&show_icons=true&theme=transparent)
+  <img src="https://github-readme-stats.vercel.app/api?username=Szukyu&show_icons=true" />
 </div>
