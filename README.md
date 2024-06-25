@@ -11,5 +11,5 @@
 <div align="center">
   <a href=""> <img src="https://github-readme-stats-szukyu.vercel.app/api?username=Szukyu&show_icons=true&theme=react&border_radius=10" /> </a>
   <br>
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=szukyu&layout=compact&theme=react&border_radius=10" />
+  <a href=""> <img src="https://github-readme-stats-szukyu.vercel.app/api/top-langs/?username=szukyu&layout=compact&theme=react&border_radius=10" /> </a>
 </div>
